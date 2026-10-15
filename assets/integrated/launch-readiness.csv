@@ -1,0 +1,11 @@
+dimension,gate,evidence,status_pass_iterate_stop,owner,open_risk,next_action,due_date
+customer_problem,repeated_or_high_intensity_problem,,,,,,
+brand_value,promise_supported_by_experience,,,,,,
+offer,buyer_scope_exclusions_price_hypothesis_clear,,,,,,
+economics,cost_floor_and_capacity_known,,,,,,
+marketing,target_message_channel_and_acceptance_ready,,,,,,
+sales,qualification_and_next_step_defined,,,,,,
+delivery,first_value_acceptance_and_exception_ready,,,,,,
+compliance,required_review_or_referral_complete,,,,,,
+measurement,baseline_metrics_countermetrics_and_records_ready,,,,,,
+stop_condition,stop_and_rollback_rules_approved,,,,,,

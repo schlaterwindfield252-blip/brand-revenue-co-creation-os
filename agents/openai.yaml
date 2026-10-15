@@ -1,0 +1,7 @@
+interface:
+  display_name: "品牌营收共创系统"
+  short_description: "连接品牌共创、营销激活与营收经营的全流程系统"
+  default_prompt: "Use $brand-revenue-co-creation-os to diagnose my brand-to-revenue system and design the next evidence-backed action."
+
+policy:
+  allow_implicit_invocation: true

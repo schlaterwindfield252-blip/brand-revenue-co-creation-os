@@ -1,0 +1,2 @@
+experiment_id,decision,hypothesis,segment_context,baseline,evidence,minimum_action,cash_cost,time_cost,capacity_cost,leading_metric,outcome_metric,counter_metric,sample_period,success_rule,failure_rule,stop_rule,owner,due_date,result,next_decision,status
+X-001,,,,,,,,,,,,,,,,,,,,
